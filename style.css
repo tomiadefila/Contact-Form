@@ -1,0 +1,20 @@
+title {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 14px;
+}
+.form-element {
+    width: 20%;
+    box-sizing: border-box;
+    box-shadow: 0cap;
+    margin: 15px;
+    padding: 10ox;
+    border: 1px solid black ;
+    border-radius: 5px;
+
+}
+button {background-color: purple;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    border: 0;
+    border-radius: 5px;
+    margin-bottom: 10px;
